@@ -1,6 +1,6 @@
 # Agents and Multi Agents Systems - Practical Project
 
-Practical Project developed as part of Agents and Multi Agents Systems course unit.
+Practical Project developed as part of the Agents and Multi Agents Systems course unit.
 
 **<ins> Team Members </ins>**
 * Afonso Bessa - pg53597
