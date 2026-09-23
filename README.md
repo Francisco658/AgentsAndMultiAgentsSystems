@@ -2,7 +2,7 @@
 
 Practical Project developed as part of Agents and Multi Agents Systems course unit.
 
-**<ins> Team Grup </ins>**
+**<ins> Team Members </ins>**
 * Afonso Bessa - pg53597
 * Francisco Claudino - pg50380
 * Rui Silva - pg54213
