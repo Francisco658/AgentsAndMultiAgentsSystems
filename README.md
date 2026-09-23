@@ -9,4 +9,4 @@ Practical Project developed as part of Agents and Multi Agents Systems course un
 
 **Masters in Informatics Engineering**
 
-**University og Minho (2023/2024)**
+**University of Minho (2023/2024)**
